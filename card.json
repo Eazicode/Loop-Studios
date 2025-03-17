@@ -1,0 +1,44 @@
+{
+  "card": [
+    {
+      "id": 1,
+      "category": "deep earth",
+      "imageClass": "./image-deep-earth.jpg"
+    },
+    {
+      "id": 2,
+      "category": "night arcade",
+      "imageClass": "./image-night-arcade.jpg"
+    },
+    {
+      "id": 3,
+      "category": "soccer team vr",
+      "imageClass": "./image-soccer-team.jpg"
+    },
+    {
+      "id": 4,
+      "category": "the grid",
+      "imageClass": "./image-grid.jpg"
+    },
+    {
+      "id": 5,
+      "category": "from up above vr",
+      "imageClass": "./image-from-above.jpg"
+    },
+    {
+      "id": 6,
+      "category": "pocket borealis",
+      "imageClass": "./image-pocket-borealis.jpg"
+    },
+    {
+      "id": 7,
+      "category": "the curiosity",
+      "imageClass": "./image-curiosity.jpg"
+    },
+    {
+      "id": 8,
+      "category": "make it fisheye",
+      "imageClass": "./image-fisheye.jpg"
+    }
+  ]
+}

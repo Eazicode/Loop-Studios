@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-xs: 480px;
+  --breakpoint-xxs: 300px;
+  --breakpoint-tablet: 850px
+}
+
+body {
+  font-family: Josefin Sans;
+}
