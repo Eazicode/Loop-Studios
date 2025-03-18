@@ -80,10 +80,10 @@ function App() {
 
           <div>
             <div className='flex gap-5 pb-10 px-10 md:px-0'>
-              <FaSquareFacebook className='text-white text-3xl mx-auto md:mx-0'/>
-              <FaTwitter className='text-white text-3xl mx-auto md:mx-0'/>
-              <FaPinterest className='text-white text-3xl mx-auto md:mx-0'/>
-              <FaInstagram className='text-white text-3xl mx-auto md:mx-0'/>
+              <FaSquareFacebook className='text-white text-3xl cursor-pointer mx-auto md:mx-0'/>
+              <FaTwitter className='text-white text-3xl cursor-pointer mx-auto md:mx-0'/>
+              <FaPinterest className='text-white cursor-pointer text-3xl mx-auto md:mx-0'/>
+              <FaInstagram className='text-white cursor-pointer text-3xl mx-auto md:mx-0'/>
             </div>
 
             <div className='flex justify-center'>

@@ -11,7 +11,9 @@ const NavBar = () => {
         <NavLinks  className={'hidden md:flex gap-5 font-bold text-white text-sm'}/>
 
         <div className='md:hidden'>
-          <img className='w-10 text-white cursor-pointer' src="../hambuger.svg" alt="" />
+          <button>
+            <img className='w-10 text-white cursor-pointer' src="../hambuger.svg" alt="" />
+          </button>
         </div>
       </nav>
     </>
